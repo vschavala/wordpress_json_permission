@@ -1,0 +1,1 @@
+# wordpress_json_permission
